@@ -11,3 +11,9 @@ I'm a postgraduate student at Ivanovo State Power Engineering University in Elec
 ## **Languages**
 * **Russian:** Native
 * **English:** Elementary
+## **Code Example**
+``` JavaScript
+    function multiply(a, b){
+    return a * b
+    }
+```
