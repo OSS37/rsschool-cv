@@ -1,1 +1,8 @@
-И здесь потом что-то будет
+.navigation{
+    position: absolute;
+}
+
+.image {
+    float:right;
+    margin: 5px 60px 5px 0;
+}
