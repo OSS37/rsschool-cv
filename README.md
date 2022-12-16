@@ -1,1 +1,1 @@
-https://OSS37.github.io/rsschool-cv/
+https://OSS37.github.io/rsschool-cv/cv
